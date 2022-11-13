@@ -18,6 +18,7 @@ class coche {
     public void anadirpuerta() {
         this.puertas++;
     }
+    public void restarpuerta(){this.puertas--;}
 
 }
 
