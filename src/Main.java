@@ -8,6 +8,7 @@ public class Main {
         coche numerodepuertas = new coche();
         numerodepuertas.anadirpuerta();
         System.out.println(numerodepuertas.puertas);
+
     }
     public static int suma(int a, int b,int c) {
         return a + b + c;
